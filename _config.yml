@@ -16,5 +16,8 @@ navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/sakuraendodesigns/'
     type: external
+  - name: Instagram
+    url: instagram.com/sakuraendo/
+    type: external
 title: Cherry Blossom
 description: 'Art, Food and The Ocean'
