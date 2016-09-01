@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.22397237899713218
 name: Cherry Blossom
+navigation:
+  - name: Facebook Page
+    url: 'https://www.facebook.com/sakuraendodesigns/'
+    type: external
 title: Cherry Blossom
 description: 'Art, Food and The Ocean'
