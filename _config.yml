@@ -1,4 +1,3 @@
-layout_spectrum: 0.22397237899713218
 typography_spectrum: 0.4169290103018284
 color:
   brandStrength: 0.055181933334097266
@@ -6,9 +5,11 @@ color:
   saturation: 0.6888549465220422
   rhythmicContrast: 0.09216889506205916
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.22397237899713218
 name: Cherry Blossom
+title: Cherry Blossom
