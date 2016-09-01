@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cherry Blossom]]></title>
+        <description><![CDATA[Cherry Blossom]]></description>
+        <link>https://thegrid.ai/cherry-blossom/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 30 Aug 2016 14:20:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cherry-blossom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>As a graphic designer most of my adult life has been spent working on editorial design, but I now have the flexibility in my time to explore past interests such as illustration, painting (I have no preferences over one. I work in oil, acrylic or watercolour), and photography.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bf2f412-c268-47fe-b816-698bdf30a2e9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cherry-blossom/about-me/index.html</link>
+            <guid isPermaLink="false">cf94658b-17a5-4363-a3b3-006bf10445b0</guid>
+            <pubDate>Tue, 30 Aug 2016 14:20:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
