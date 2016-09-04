@@ -1,3 +1,4 @@
+layout_spectrum: 0.22397237899713218
 typography_spectrum: 0.4169290103018284
 color:
   brandStrength: 0.055181933334097266
@@ -10,17 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.22397237899713218
 name: Cherry Blossom
-navigation:
-  - name: Facebook Page
-    url: 'https://www.facebook.com/sakuraendodesigns/'
-    type: external
-  - name: Instagram
-    url: instagram.com/sakuraendo/
-    type: external
-  - name: About Me
-    id: cf94658b-17a5-4363-a3b3-006bf10445b0
-    type: content
-title: Cherry Blossom
-description: 'Art, Food and The Ocean'
